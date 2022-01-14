@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Manushi Chillar",
+      "username": "man_ch!!",
+      "email": "mc@gamil.com",
+      "phone": "1234567891",
+      "id": 1
+    },
+    {
+      "name": "Priyanka Chopra Jonas",
+      "username": "desi_girl",
+      "email": "pc@gamil.com",
+      "phone": "0987654321",
+      "id": 2
+    },
+    {
+      "name": "Aishwarya Rai Bachhan",
+      "username": "aaish_",
+      "email": "arb@gmail.com",
+      "phone": "4567894567",
+      "id": 3
+    },
+    {
+      "name": "Diana haiden",
+      "username": "dai_01",
+      "email": "dh@gmail.com",
+      "phone": "5656565656",
+      "id": 4
+    },
+    {
+      "name": "Reita Faria",
+      "username": "rfaria",
+      "email": "rf@gamil.com",
+      "phone": "1231231230",
+      "id": 5
+    },
+    {
+      "name": "Yukta Mukhi",
+      "username": "_Yukhi",
+      "email": "ym@gamil.com",
+      "phone": "1212121212",
+      "id": 6
+    }
+  ]
+}
